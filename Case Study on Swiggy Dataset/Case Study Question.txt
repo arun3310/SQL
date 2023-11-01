@@ -1,0 +1,7 @@
+1. Find the customers who have never ordered.
+2. Which restaurant has got the most number of orders?
+3. Average Price/dish
+4. Which restaurant has done the most amount of orders?
+5. Which food item has been ordered the most across all restaurants?
+6. Find the food item under each restaurant whose amount is the highest.
+
